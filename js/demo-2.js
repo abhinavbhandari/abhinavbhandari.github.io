@@ -30,7 +30,7 @@
 
     // Event handling
     function addListeners() {
-        window.addEventListener('scroll', scrollCheck);
+        // window.addEventListener('scroll', scrollCheck);
         window.addEventListener('resize', resize);
     }
 
